@@ -1,0 +1,116 @@
+Statement,Header,Field Name,Field Value
+Statement,Data,Title,Transaction History
+Statement,Data,Period,"January 1, 2023 - December 31, 2023"
+Summary,Header,Field Name,Field Value
+Summary,Data,Base Currency,USD
+Summary,Data,Starting Cash,330.44
+Summary,Data,Ending Cash,1293.44
+Transaction History,Header,Date,Account,Transaction Type,Symbol,Quantity,Price,Price Currency,Gross Amount,Commission,Net Amount
+Transaction History,Data,29/12/2023,DEMO,Credit Interest,-,-,-,-,1.08,-,1.08
+Transaction History,Data,20/12/2023,DEMO,Dividend,SCHD,-,-,-,35.62,-,35.62
+Transaction History,Data,15/12/2023,DEMO,Dividend,UNH,-,-,-,13.16,-,13.16
+Transaction History,Data,14/12/2023,DEMO,Dividend,PEP,-,-,-,18.97,-,18.97
+Transaction History,Data,14/12/2023,DEMO,Dividend,KO,-,-,-,25.76,-,25.76
+Transaction History,Data,13/12/2023,DEMO,Dividend,HD,-,-,-,16.72,-,16.72
+Transaction History,Data,05/12/2023,DEMO,Sell,JNJ,-4,158.55,USD,634.20,-1.00,633.20
+Transaction History,Data,04/12/2023,DEMO,Dividend,JNJ,-,-,-,19.04,-,19.04
+Transaction History,Data,01/12/2023,DEMO,Buy,VOO,1,421.86,USD,-421.86,-1.00,-422.86
+Transaction History,Data,01/12/2023,DEMO,Buy,COST,1,596.25,USD,-596.25,-1.00,-597.25
+Transaction History,Data,01/12/2023,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,30/11/2023,DEMO,Credit Interest,-,-,-,-,0.46,-,0.46
+Transaction History,Data,29/11/2023,DEMO,Dividend,MSFT,-,-,-,5.25,-,5.25
+Transaction History,Data,28/11/2023,DEMO,Dividend,XOM,-,-,-,36.10,-,36.10
+Transaction History,Data,24/11/2023,DEMO,Dividend,AAPL,-,-,-,4.56,-,4.56
+Transaction History,Data,22/11/2023,DEMO,Dividend,V,-,-,-,5.72,-,5.72
+Transaction History,Data,16/11/2023,DEMO,Dividend,COST,-,-,-,19.38,-,19.38
+Transaction History,Data,02/11/2023,DEMO,Dividend,PG,-,-,-,16.00,-,16.00
+Transaction History,Data,01/11/2023,DEMO,Buy,JPM,4,138.94,USD,-555.76,-1.00,-556.76
+Transaction History,Data,01/11/2023,DEMO,Buy,MSFT,1,346.07,USD,-346.07,-1.00,-347.07
+Transaction History,Data,01/11/2023,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,31/10/2023,DEMO,Credit Interest,-,-,-,-,0.31,-,0.31
+Transaction History,Data,19/10/2023,DEMO,Dividend,JPM,-,-,-,16.80,-,16.80
+Transaction History,Data,12/10/2023,DEMO,Dividend,VOO,-,-,-,22.40,-,22.40
+Transaction History,Data,04/10/2023,DEMO,Dividend,SCHD,-,-,-,31.44,-,31.44
+Transaction History,Data,02/10/2023,DEMO,Buy,AAPL,5,173.75,USD,-868.75,-1.00,-869.75
+Transaction History,Data,02/10/2023,DEMO,Buy,KO,18,55.48,USD,-998.64,-1.00,-999.64
+Transaction History,Data,02/10/2023,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,29/09/2023,DEMO,Credit Interest,-,-,-,-,0.97,-,0.97
+Transaction History,Data,28/09/2023,DEMO,Dividend,KO,-,-,-,17.48,-,17.48
+Transaction History,Data,22/09/2023,DEMO,Dividend,UNH,-,-,-,13.16,-,13.16
+Transaction History,Data,14/09/2023,DEMO,Dividend,PEP,-,-,-,15.18,-,15.18
+Transaction History,Data,13/09/2023,DEMO,Dividend,HD,-,-,-,20.90,-,20.90
+Transaction History,Data,08/09/2023,DEMO,Dividend,JNJ,-,-,-,19.04,-,19.04
+Transaction History,Data,07/09/2023,DEMO,Dividend,COST,-,-,-,19.38,-,19.38
+Transaction History,Data,06/09/2023,DEMO,Sell,HD,-2,326.00,USD,652.00,-1.00,651.00
+Transaction History,Data,01/09/2023,DEMO,Buy,PG,4,154.51,USD,-618.04,-1.00,-619.04
+Transaction History,Data,01/09/2023,DEMO,Buy,PEP,3,175.32,USD,-525.96,-1.00,-526.96
+Transaction History,Data,01/09/2023,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,31/08/2023,DEMO,Credit Interest,-,-,-,-,0.46,-,0.46
+Transaction History,Data,30/08/2023,DEMO,Dividend,MSFT,-,-,-,4.08,-,4.08
+Transaction History,Data,29/08/2023,DEMO,Dividend,XOM,-,-,-,34.58,-,34.58
+Transaction History,Data,25/08/2023,DEMO,Dividend,AAPL,-,-,-,3.36,-,3.36
+Transaction History,Data,24/08/2023,DEMO,Dividend,V,-,-,-,4.95,-,4.95
+Transaction History,Data,03/08/2023,DEMO,Dividend,PG,-,-,-,12.23,-,12.23
+Transaction History,Data,01/08/2023,DEMO,Buy,JNJ,3,168.89,USD,-506.67,-1.00,-507.67
+Transaction History,Data,01/08/2023,DEMO,Buy,V,2,239.78,USD,-479.56,-1.00,-480.56
+Transaction History,Data,01/08/2023,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,31/07/2023,DEMO,Credit Interest,-,-,-,-,0.40,-,0.40
+Transaction History,Data,19/07/2023,DEMO,Dividend,JPM,-,-,-,16.00,-,16.00
+Transaction History,Data,13/07/2023,DEMO,Dividend,VOO,-,-,-,23.64,-,23.64
+Transaction History,Data,05/07/2023,DEMO,Dividend,SCHD,-,-,-,17.29,-,17.29
+Transaction History,Data,03/07/2023,DEMO,Buy,UNH,3,477.88,USD,-1433.64,-1.00,-1434.64
+Transaction History,Data,03/07/2023,DEMO,Buy,SCHD,22,73.05,USD,-1607.10,-1.00,-1608.10
+Transaction History,Data,03/07/2023,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,30/06/2023,DEMO,Credit Interest,-,-,-,-,2.05,-,2.05
+Transaction History,Data,29/06/2023,DEMO,Dividend,UNH,-,-,-,7.52,-,7.52
+Transaction History,Data,29/06/2023,DEMO,Dividend,KO,-,-,-,17.48,-,17.48
+Transaction History,Data,15/06/2023,DEMO,Dividend,PEP,-,-,-,15.18,-,15.18
+Transaction History,Data,14/06/2023,DEMO,Dividend,HD,-,-,-,16.72,-,16.72
+Transaction History,Data,05/06/2023,DEMO,Sell,VOO,-5,392.50,USD,1962.50,-1.00,1961.50
+Transaction History,Data,05/06/2023,DEMO,Dividend,JNJ,-,-,-,15.47,-,15.47
+Transaction History,Data,01/06/2023,DEMO,Buy,HD,2,288.39,USD,-576.78,-1.00,-577.78
+Transaction History,Data,01/06/2023,DEMO,Buy,XOM,7,103.36,USD,-723.52,-1.00,-724.52
+Transaction History,Data,01/06/2023,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,31/05/2023,DEMO,Credit Interest,-,-,-,-,0.61,-,0.61
+Transaction History,Data,31/05/2023,DEMO,Dividend,MSFT,-,-,-,4.08,-,4.08
+Transaction History,Data,30/05/2023,DEMO,Dividend,XOM,-,-,-,28.21,-,28.21
+Transaction History,Data,26/05/2023,DEMO,Dividend,AAPL,-,-,-,3.36,-,3.36
+Transaction History,Data,25/05/2023,DEMO,Dividend,V,-,-,-,4.05,-,4.05
+Transaction History,Data,18/05/2023,DEMO,Dividend,COST,-,-,-,19.38,-,19.38
+Transaction History,Data,04/05/2023,DEMO,Dividend,PG,-,-,-,12.23,-,12.23
+Transaction History,Data,01/05/2023,DEMO,Buy,VOO,1,381.79,USD,-381.79,-1.00,-382.79
+Transaction History,Data,01/05/2023,DEMO,Buy,COST,1,493.59,USD,-493.59,-1.00,-494.59
+Transaction History,Data,01/05/2023,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,28/04/2023,DEMO,Credit Interest,-,-,-,-,0.45,-,0.45
+Transaction History,Data,19/04/2023,DEMO,Dividend,JPM,-,-,-,16.00,-,16.00
+Transaction History,Data,10/04/2023,DEMO,Dividend,VOO,-,-,-,28.25,-,28.25
+Transaction History,Data,05/04/2023,DEMO,Dividend,SCHD,-,-,-,15.52,-,15.52
+Transaction History,Data,03/04/2023,DEMO,Buy,JPM,4,130.16,USD,-520.64,-1.00,-521.64
+Transaction History,Data,03/04/2023,DEMO,Buy,MSFT,1,287.23,USD,-287.23,-1.00,-288.23
+Transaction History,Data,03/04/2023,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,31/03/2023,DEMO,Credit Interest,-,-,-,-,0.24,-,0.24
+Transaction History,Data,30/03/2023,DEMO,Dividend,KO,-,-,-,17.48,-,17.48
+Transaction History,Data,24/03/2023,DEMO,Dividend,UNH,-,-,-,6.60,-,6.60
+Transaction History,Data,22/03/2023,DEMO,Dividend,HD,-,-,-,16.72,-,16.72
+Transaction History,Data,16/03/2023,DEMO,Dividend,PEP,-,-,-,13.80,-,13.80
+Transaction History,Data,03/03/2023,DEMO,Dividend,JNJ,-,-,-,14.69,-,14.69
+Transaction History,Data,01/03/2023,DEMO,Buy,AAPL,4,145.31,USD,-581.24,-1.00,-582.24
+Transaction History,Data,01/03/2023,DEMO,Buy,KO,10,58.86,USD,-588.60,-1.00,-589.60
+Transaction History,Data,01/03/2023,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,01/03/2023,DEMO,Dividend,MSFT,-,-,-,3.40,-,3.40
+Transaction History,Data,28/02/2023,DEMO,Credit Interest,-,-,-,-,0.32,-,0.32
+Transaction History,Data,27/02/2023,DEMO,Dividend,XOM,-,-,-,28.21,-,28.21
+Transaction History,Data,24/02/2023,DEMO,Dividend,AAPL,-,-,-,2.30,-,2.30
+Transaction History,Data,23/02/2023,DEMO,Dividend,V,-,-,-,4.05,-,4.05
+Transaction History,Data,16/02/2023,DEMO,Dividend,COST,-,-,-,16.20,-,16.20
+Transaction History,Data,02/02/2023,DEMO,Dividend,PG,-,-,-,8.22,-,8.22
+Transaction History,Data,01/02/2023,DEMO,Buy,PG,4,143.19,USD,-572.76,-1.00,-573.76
+Transaction History,Data,01/02/2023,DEMO,Buy,PEP,3,171.56,USD,-514.68,-1.00,-515.68
+Transaction History,Data,01/02/2023,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,31/01/2023,DEMO,Credit Interest,-,-,-,-,0.35,-,0.35
+Transaction History,Data,19/01/2023,DEMO,Dividend,JPM,-,-,-,12.00,-,12.00
+Transaction History,Data,03/01/2023,DEMO,Buy,JNJ,3,178.19,USD,-534.57,-1.00,-535.57
+Transaction History,Data,03/01/2023,DEMO,Buy,V,2,207.39,USD,-414.78,-1.00,-415.78
+Transaction History,Data,03/01/2023,DEMO,Other Fee,-,-,-,-,-5.00,-,-5.00
+Transaction History,Data,03/01/2023,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,03/01/2023,DEMO,Dividend,VOO,-,-,-,31.77,-,31.77

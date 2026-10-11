@@ -1,0 +1,115 @@
+Statement,Header,Field Name,Field Value
+Statement,Data,Title,Transaction History
+Statement,Data,Period,"January 1, 2022 - December 31, 2022"
+Summary,Header,Field Name,Field Value
+Summary,Data,Base Currency,USD
+Summary,Data,Starting Cash,319.90
+Summary,Data,Ending Cash,330.44
+Transaction History,Header,Date,Account,Transaction Type,Symbol,Quantity,Price,Price Currency,Gross Amount,Commission,Net Amount
+Transaction History,Data,30/12/2022,DEMO,Credit Interest,-,-,-,-,0.28,-,0.28
+Transaction History,Data,21/12/2022,DEMO,Dividend,SCHD,-,-,-,18.28,-,18.28
+Transaction History,Data,16/12/2022,DEMO,Dividend,UNH,-,-,-,6.60,-,6.60
+Transaction History,Data,15/12/2022,DEMO,Dividend,PEP,-,-,-,10.35,-,10.35
+Transaction History,Data,14/12/2022,DEMO,Dividend,HD,-,-,-,15.20,-,15.20
+Transaction History,Data,14/12/2022,DEMO,Dividend,KO,-,-,-,12.32,-,12.32
+Transaction History,Data,05/12/2022,DEMO,Dividend,JNJ,-,-,-,11.30,-,11.30
+Transaction History,Data,01/12/2022,DEMO,Buy,UNH,1,536.91,USD,-536.91,-1.00,-537.91
+Transaction History,Data,01/12/2022,DEMO,Buy,SCHD,7,79.06,USD,-553.42,-1.00,-554.42
+Transaction History,Data,01/12/2022,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,30/11/2022,DEMO,Credit Interest,-,-,-,-,0.29,-,0.29
+Transaction History,Data,30/11/2022,DEMO,Dividend,MSFT,-,-,-,3.40,-,3.40
+Transaction History,Data,28/11/2022,DEMO,Dividend,XOM,-,-,-,28.21,-,28.21
+Transaction History,Data,23/11/2022,DEMO,Dividend,V,-,-,-,3.15,-,3.15
+Transaction History,Data,18/11/2022,DEMO,Dividend,AAPL,-,-,-,2.30,-,2.30
+Transaction History,Data,10/11/2022,DEMO,Dividend,COST,-,-,-,16.20,-,16.20
+Transaction History,Data,03/11/2022,DEMO,Dividend,PG,-,-,-,8.22,-,8.22
+Transaction History,Data,01/11/2022,DEMO,Buy,HD,2,296.06,USD,-592.12,-1.00,-593.12
+Transaction History,Data,01/11/2022,DEMO,Buy,XOM,6,111.91,USD,-671.46,-1.00,-672.46
+Transaction History,Data,01/11/2022,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,31/10/2022,DEMO,Credit Interest,-,-,-,-,0.46,-,0.46
+Transaction History,Data,19/10/2022,DEMO,Dividend,JPM,-,-,-,12.00,-,12.00
+Transaction History,Data,12/10/2022,DEMO,Dividend,VOO,-,-,-,24.97,-,24.97
+Transaction History,Data,05/10/2022,DEMO,Dividend,SCHD,-,-,-,12.10,-,12.10
+Transaction History,Data,03/10/2022,DEMO,Buy,VOO,2,336.98,USD,-673.96,-1.00,-674.96
+Transaction History,Data,03/10/2022,DEMO,Buy,COST,2,477.73,USD,-955.46,-1.00,-956.46
+Transaction History,Data,03/10/2022,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,30/09/2022,DEMO,Credit Interest,-,-,-,-,0.94,-,0.94
+Transaction History,Data,29/09/2022,DEMO,Dividend,KO,-,-,-,12.32,-,12.32
+Transaction History,Data,23/09/2022,DEMO,Dividend,UNH,-,-,-,4.95,-,4.95
+Transaction History,Data,15/09/2022,DEMO,Dividend,PEP,-,-,-,10.35,-,10.35
+Transaction History,Data,14/09/2022,DEMO,Dividend,HD,-,-,-,11.40,-,11.40
+Transaction History,Data,06/09/2022,DEMO,Sell,XOM,-8,94.95,USD,759.60,-1.00,758.60
+Transaction History,Data,06/09/2022,DEMO,Dividend,JNJ,-,-,-,11.30,-,11.30
+Transaction History,Data,01/09/2022,DEMO,Buy,JPM,5,114.51,USD,-572.55,-1.00,-573.55
+Transaction History,Data,01/09/2022,DEMO,Buy,MSFT,2,260.40,USD,-520.80,-1.00,-521.80
+Transaction History,Data,01/09/2022,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,31/08/2022,DEMO,Credit Interest,-,-,-,-,0.35,-,0.35
+Transaction History,Data,31/08/2022,DEMO,Dividend,MSFT,-,-,-,1.86,-,1.86
+Transaction History,Data,25/08/2022,DEMO,Dividend,XOM,-,-,-,29.04,-,29.04
+Transaction History,Data,25/08/2022,DEMO,Dividend,V,-,-,-,2.62,-,2.62
+Transaction History,Data,19/08/2022,DEMO,Dividend,AAPL,-,-,-,2.30,-,2.30
+Transaction History,Data,11/08/2022,DEMO,Dividend,COST,-,-,-,14.40,-,14.40
+Transaction History,Data,04/08/2022,DEMO,Dividend,PG,-,-,-,8.22,-,8.22
+Transaction History,Data,01/08/2022,DEMO,Buy,AAPL,3,161.51,USD,-484.53,-1.00,-485.53
+Transaction History,Data,01/08/2022,DEMO,Buy,KO,9,64.52,USD,-580.68,-1.00,-581.68
+Transaction History,Data,01/08/2022,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,29/07/2022,DEMO,Credit Interest,-,-,-,-,0.36,-,0.36
+Transaction History,Data,19/07/2022,DEMO,Dividend,JPM,-,-,-,7.00,-,7.00
+Transaction History,Data,13/07/2022,DEMO,Dividend,VOO,-,-,-,24.34,-,24.34
+Transaction History,Data,06/07/2022,DEMO,Dividend,SCHD,-,-,-,13.38,-,13.38
+Transaction History,Data,01/07/2022,DEMO,Buy,PG,1,146.11,USD,-146.11,-1.00,-147.11
+Transaction History,Data,01/07/2022,DEMO,Buy,PEP,1,169.39,USD,-169.39,-1.00,-170.39
+Transaction History,Data,01/07/2022,DEMO,Withdrawal,-,-,-,-,-750.00,-,-750.00
+Transaction History,Data,01/07/2022,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,30/06/2022,DEMO,Credit Interest,-,-,-,-,0.38,-,0.38
+Transaction History,Data,30/06/2022,DEMO,Dividend,UNH,-,-,-,4.95,-,4.95
+Transaction History,Data,28/06/2022,DEMO,Dividend,KO,-,-,-,8.36,-,8.36
+Transaction History,Data,16/06/2022,DEMO,Dividend,PEP,-,-,-,9.20,-,9.20
+Transaction History,Data,15/06/2022,DEMO,Dividend,HD,-,-,-,11.40,-,11.40
+Transaction History,Data,06/06/2022,DEMO,Dividend,JNJ,-,-,-,7.91,-,7.91
+Transaction History,Data,01/06/2022,DEMO,Buy,JNJ,3,177.71,USD,-533.13,-1.00,-534.13
+Transaction History,Data,01/06/2022,DEMO,Buy,V,2,209.93,USD,-419.86,-1.00,-420.86
+Transaction History,Data,01/06/2022,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,01/06/2022,DEMO,Dividend,MSFT,-,-,-,1.86,-,1.86
+Transaction History,Data,31/05/2022,DEMO,Credit Interest,-,-,-,-,0.30,-,0.30
+Transaction History,Data,26/05/2022,DEMO,Dividend,XOM,-,-,-,29.04,-,29.04
+Transaction History,Data,26/05/2022,DEMO,Dividend,V,-,-,-,1.88,-,1.88
+Transaction History,Data,20/05/2022,DEMO,Dividend,AAPL,-,-,-,1.61,-,1.61
+Transaction History,Data,12/05/2022,DEMO,Dividend,COST,-,-,-,14.40,-,14.40
+Transaction History,Data,05/05/2022,DEMO,Dividend,PG,-,-,-,7.30,-,7.30
+Transaction History,Data,02/05/2022,DEMO,Buy,UNH,1,501.15,USD,-501.15,-1.00,-502.15
+Transaction History,Data,02/05/2022,DEMO,Buy,SCHD,7,75.93,USD,-531.51,-1.00,-532.51
+Transaction History,Data,02/05/2022,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,29/04/2022,DEMO,Credit Interest,-,-,-,-,0.28,-,0.28
+Transaction History,Data,19/04/2022,DEMO,Dividend,JPM,-,-,-,7.00,-,7.00
+Transaction History,Data,07/04/2022,DEMO,Dividend,VOO,-,-,-,23.36,-,23.36
+Transaction History,Data,06/04/2022,DEMO,Dividend,SCHD,-,-,-,6.22,-,6.22
+Transaction History,Data,01/04/2022,DEMO,Buy,HD,2,301.89,USD,-603.78,-1.00,-604.78
+Transaction History,Data,01/04/2022,DEMO,Buy,XOM,9,83.12,USD,-748.08,-1.00,-749.08
+Transaction History,Data,01/04/2022,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,31/03/2022,DEMO,Credit Interest,-,-,-,-,0.55,-,0.55
+Transaction History,Data,28/03/2022,DEMO,Dividend,KO,-,-,-,8.36,-,8.36
+Transaction History,Data,25/03/2022,DEMO,Dividend,UNH,-,-,-,2.90,-,2.90
+Transaction History,Data,23/03/2022,DEMO,Dividend,HD,-,-,-,7.60,-,7.60
+Transaction History,Data,17/03/2022,DEMO,Dividend,PEP,-,-,-,8.60,-,8.60
+Transaction History,Data,04/03/2022,DEMO,Dividend,JNJ,-,-,-,7.42,-,7.42
+Transaction History,Data,02/03/2022,DEMO,Dividend,MSFT,-,-,-,1.86,-,1.86
+Transaction History,Data,01/03/2022,DEMO,Buy,VOO,1,395.34,USD,-395.34,-1.00,-396.34
+Transaction History,Data,01/03/2022,DEMO,Buy,COST,1,522.93,USD,-522.93,-1.00,-523.93
+Transaction History,Data,01/03/2022,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,28/02/2022,DEMO,Credit Interest,-,-,-,-,0.45,-,0.45
+Transaction History,Data,24/02/2022,DEMO,Dividend,V,-,-,-,1.88,-,1.88
+Transaction History,Data,23/02/2022,DEMO,Dividend,XOM,-,-,-,21.12,-,21.12
+Transaction History,Data,18/02/2022,DEMO,Dividend,AAPL,-,-,-,1.54,-,1.54
+Transaction History,Data,17/02/2022,DEMO,Dividend,COST,-,-,-,11.85,-,11.85
+Transaction History,Data,03/02/2022,DEMO,Dividend,PG,-,-,-,6.96,-,6.96
+Transaction History,Data,01/02/2022,DEMO,Buy,JPM,3,151.15,USD,-453.45,-1.00,-454.45
+Transaction History,Data,01/02/2022,DEMO,Buy,MSFT,1,308.76,USD,-308.76,-1.00,-309.76
+Transaction History,Data,01/02/2022,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,31/01/2022,DEMO,Credit Interest,-,-,-,-,0.22,-,0.22
+Transaction History,Data,19/01/2022,DEMO,Dividend,JPM,-,-,-,4.00,-,4.00
+Transaction History,Data,04/01/2022,DEMO,Dividend,VOO,-,-,-,24.53,-,24.53
+Transaction History,Data,03/01/2022,DEMO,Buy,AAPL,3,182.01,USD,-546.03,-1.00,-547.03
+Transaction History,Data,03/01/2022,DEMO,Buy,KO,9,59.30,USD,-533.70,-1.00,-534.70
+Transaction History,Data,03/01/2022,DEMO,Other Fee,-,-,-,-,-5.00,-,-5.00
+Transaction History,Data,03/01/2022,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00

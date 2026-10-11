@@ -1,0 +1,115 @@
+# FolioEx settings. Every value shown is the default; edit what you need.
+# Environment variables override this file, e.g. FOLIOEX_UI__PORT=9000.
+
+[upload]
+max_files = 20
+max_file_mb = 5
+max_total_mb = 25
+
+[benchmark]
+default = "SPY"
+
+[benchmark.choices]
+SPY = "S&P 500 (SPY)"
+QQQ = "Nasdaq-100 (QQQ)"
+DIA = "Dow Jones 30 (DIA)"
+
+[analytics]
+lot_method = "FIFO"
+risk_free_rate = 0.04       # used for the Sharpe ratio on the Compare tab
+base_currency = "USD"
+
+[insights]
+max_position_weight = 0.20  # warn when one stock is more than 20% of the account
+max_sector_weight = 0.35
+big_loser_pct = -0.20
+big_winner_pct = 0.50
+idle_cash_pct = 0.05
+fee_drag_pct = 0.10  # note it when tax and fees take this share of your gains
+
+[cache]
+# dir = "~/.folioex/cache"  # public market data only; never your transactions
+price_ttl_hours = 12
+profile_ttl_days = 7
+universe_ttl_days = 1
+max_mb = 500
+
+[compare]
+max_tickers = 8             # colour-safe limit; the whole-portfolio line doesn't count
+default_period = "1Y"
+show_portfolio = true
+
+[progress]
+poll_ms = 300
+min_stage_ms = 80
+green_ratio = 0.65
+
+[quiz]
+enabled = true
+bucket_width_pct = 10
+
+[performers]
+count = 3
+min_days = 30
+min_avg_capital = 100
+
+[format]
+date_format = "%d/%m/%Y"
+null_token = "-"
+section = "Transaction History"
+summary_section = "Summary"
+statement_section = "Statement"
+
+[format.columns]
+date = "Date"
+account = "Account"
+type = "Transaction Type"
+symbol = "Symbol"
+quantity = "Quantity"
+price = "Price"
+currency = "Price Currency"
+gross = "Gross Amount"
+commission = "Commission"
+net = "Net Amount"
+
+# Transaction-type labels from your file → FolioEx categories.
+# Categories: BUY, SELL, DIVIDEND, WITHHOLDING, FEE, DEPOSIT, WITHDRAWAL, INTEREST,
+#             TRANSFER_IN, TRANSFER_OUT, SPLIT, OTHER. Entries here add to the built-in list.
+[format.types]
+"Buy" = "BUY"
+"Sell" = "SELL"
+"Dividend" = "DIVIDEND"
+"Payment in Lieu of Dividend" = "DIVIDEND"
+"Foreign Tax Withholding" = "WITHHOLDING"
+"Withholding Tax" = "WITHHOLDING"
+"Other Fee" = "FEE"
+"Commission Adjustment" = "FEE"
+"Deposit" = "DEPOSIT"
+"Withdrawal" = "WITHDRAWAL"
+"Credit Interest" = "INTEREST"
+"Debit Interest" = "INTEREST"
+"Transfer In" = "TRANSFER_IN"
+"Transfer Out" = "TRANSFER_OUT"
+"Stock Split" = "SPLIT"
+
+# Ticker overrides, e.g. a renamed company: "FB" = "META"
+[format.symbols]
+
+[sample]
+years = [2021, 2026]
+tickers = ["AAPL", "MSFT", "JNJ", "PG", "KO", "V", "HD", "XOM", "COST", "PEP", "JPM", "UNH", "VOO", "SCHD"]
+monthly_deposit = 1000
+withholding_rate = 0.0
+seed = 42
+
+[ui]
+app_name = "FolioEx"
+tagline = "Your portfolio, explained."
+default_theme = "light"
+host = "127.0.0.1"
+port = 8050
+open_browser = true
+
+[logging]
+# dir = "~/.folioex/logs"
+level = "INFO"

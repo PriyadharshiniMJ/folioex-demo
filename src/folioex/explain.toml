@@ -1,0 +1,22 @@
+# Wording for the 💡 Explain panel. Plain English, short sentences, written for a retail investor.
+# [empty.<tab>] is shown before any data is loaded.
+
+start_steps = [
+  "Go to Data Hub and upload one CSV file per year of your transaction history.",
+  "No file? Download the template there and replace the placeholders with your own data.",
+]
+
+[empty.datahub]
+nutshell = "This is where you bring in your transaction history. Upload your CSV files and FolioEx checks them, then builds your dashboards."
+
+[empty.holdings]
+nutshell = "Once your files are loaded, this page shows what you own today, what it's worth, and which stocks are doing best and worst."
+
+[empty.performance]
+nutshell = "Once your files are loaded, this page shows how your account grew over time, how you compare with the market, and how much your dividends paid you."
+
+[empty.compare]
+nutshell = "Once your files are loaded, you can pick stocks you own and stocks you're curious about, and see how they would have grown side by side."
+
+[empty.unknown]
+nutshell = "Pick a tab to see a plain-English summary of it."

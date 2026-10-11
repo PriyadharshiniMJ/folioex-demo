@@ -1,0 +1,115 @@
+# Every word FolioEx shows the investor about a problem lives here.
+# Rules: plain English; say what happened, what FolioEx did, and what to do next; never blame; no jargon.
+# Placeholders like {file} are filled in by the app. Keep them when editing.
+
+[issues]
+unexpected = "Something went wrong while preparing this part of the page. The rest of your dashboard is fine. Try refreshing the page."
+chart_failed = "We couldn't draw this chart right now. The rest of your dashboard is fine. Try refreshing the page."
+explain_failed = "We couldn't prepare this summary right now. The dashboard itself is fine."
+file_not_csv = "“{file}” isn't a CSV file. Please upload your transaction history as a .csv file."
+too_many_files = "You can upload up to {limit} files at a time. We loaded the first {limit}."
+file_too_large = "“{file}” is larger than {limit_mb} MB, so we skipped it."
+total_too_large = "“{file}” would take the total past {limit_mb} MB, so we skipped it."
+file_unreadable = "We couldn't read the text in “{file}”. Save it again as a CSV file (UTF-8) and try once more."
+no_transactions_section = "We couldn't find any transactions in “{file}”. Make sure it follows the FolioEx template. You can download it above."
+missing_column = "“{file}” is missing the “{column}” column, so we couldn't read it. Compare it with the template and try again."
+bad_dates = "We skipped {count_rows} in “{file}” because we couldn't read the date (e.g. “{example}”). Dates should look like 31/12/2026."
+month_day_dates = "Some dates in “{file}” look like month/day/year (e.g. “{example}”). FolioEx expects day/month/year, like 31/12/2026. We skipped these rows."
+unknown_type = "We don't recognise the type “{label}” ({count_rows}). We kept the cash amount, but it won't count as a buy or sell."
+unparseable_rows = "We skipped {count_rows} in “{file}” because we couldn't read a number (e.g. “{example}”)."
+masked_rows = "We skipped {count_rows} in “{file}” that have hidden or masked values (like ****)."
+non_usd_rows = "We skipped {count_rows} in “{file}” priced in a currency other than USD. FolioEx covers U.S. dollar investments only."
+sign_mismatch = "In {count_rows} of “{file}”, the quantity's plus or minus sign didn't match the transaction type. We went by the type."
+net_mismatch = "In {count_rows} of “{file}”, the net amount isn't gross plus commission. We used the net amount as written."
+template_rows_skipped = "We skipped {count_rows} from the template that you haven't filled in yet."
+duplicates_ignored = "We ignored {count_rows} that appeared in more than one file, so nothing is counted twice."
+history_gap = "You sold {shares} shares of {symbol} on {date}, but we don't see when you bought them. Upload older files for accurate gains."
+dividend_without_shares = "We see a dividend from {symbol} on {date}, but no shares bought before then. Upload older files for a complete history."
+cash_mismatch = "The cash in “{file}” is off by {amount} from the statement summary. Your results may be slightly off."
+cash_continuity = "The ending cash in “{previous}” doesn't match the starting cash in “{file}”. A file in between may be missing."
+coverage_gap = "Your files don't cover {start} to {end}. Upload that period for a complete history."
+split_applied = "{symbol} split {ratio} on {date}. We adjusted your shares and cost to match."
+symbol_unresolved = "We couldn't find market data for {symbol}. It may have been renamed or delisted. You can map it to its new ticker in config.toml under [format.symbols]."
+market_data_offline = "We couldn't reach the market data service. Showing prices saved earlier (as of {date}). Check your connection and try again."
+market_data_unavailable = "We couldn't reach the market data service and have no saved prices yet, so holdings are valued at their last trade price. Check your connection and try again."
+ticker_not_found = "We couldn't find market prices for {symbol}. It may have been renamed or delisted. We've valued it at its last trade price."
+profile_missing = "We don't have sector details for {count_holdings}, so they appear as “Unclassified”."
+not_enough_history = "There isn't enough history yet to work out a yearly return. It appears once you have a year of data."
+no_net_deposits = "You've taken out more than you put in, so a gain on deposits can't be shown as a percentage."
+shadow_capped = "A withdrawal on {date} was larger than the benchmark comparison could cover, so that comparison is approximate."
+transfer_cost_estimated = "{symbol} was transferred in on {date} without a cost, so we used that day's market price as its cost."
+processing_failed = "We couldn't finish preparing your dashboard. Your files are fine. Press “Try again”. If it keeps happening, the log file has the details."
+compare_limit = "You can compare up to {limit} at a time. Remove one to add another."
+sample_data_missing = "The sample data isn't available right now. You can still upload your own files."
+compare_ticker_not_found = "We couldn't find market prices for {symbol}, so it isn't on the chart. Remove it and check the ticker symbol, for example AAPL."
+compare_unavailable = "We couldn't reach the market data service, so the stocks you added aren't shown right now. Your own holdings and portfolio still are. Check your connection and try again."
+compare_starts_later = "{symbol} only has prices from {date}, so its line starts there and isn't a like-for-like comparison."
+universe_unavailable = "We couldn't load the list of NYSE and Nasdaq stocks, so search is limited right now. You can still type any ticker symbol, like AAPL, into the box."
+
+[text]
+disclaimer_footer = "For information and education only. FolioEx is not investment, tax, or legal advice. Past performance does not guarantee future results. Market data may be delayed or inaccurate."
+explain_footer = "This summary describes your past results and isn't financial advice."
+compare_note = "Comparisons show past performance only and are not a recommendation to buy or sell."
+performers_caption = "Based on past returns, not a prediction."
+compare_hint = "Pick a stock you own, or search for one you're curious about. Up to {limit} at a time."
+compare_count = "{count} of {limit} picked"
+compare_empty_picks = "No stocks picked yet. Your whole portfolio is shown for reference."
+quiz_title = "Quick guess!"
+quiz_question = "Before you peek: how much do you think your money has grown?"
+quiz_definition = "Growth = (value today − money you put in) ÷ money you put in"
+quiz_right = "Spot on! Your money has grown {gain}."
+quiz_right_down = "Spot on! Your money is down {gain}."
+quiz_actual_up = "Your money actually grew {gain}."
+quiz_actual_down = "Your money is actually down {gain}."
+quiz_skip_note = "Pick a range, then lock it in. Or skip, nothing is lost."
+
+[lines]
+quiz_wrong = [
+  "Swing and a miss! ⚾ Your portfolio has some surprises for you.",
+  "Oops! Even Warren Buffett misses sometimes 😅",
+  "Close, but no cigar! 🙈 Let's see what really happened.",
+  "The market loves a plot twist 🎬 and so does your portfolio.",
+  "Not quite! Your crystal ball needs a polish 🔮",
+]
+
+[[disclaimer]]
+title = "Not investment advice."
+body = "FolioEx does not recommend buying, selling, or holding any security. Insights, rankings, and wishlist comparisons describe past data only."
+
+[[disclaimer]]
+title = "Past performance is not a guide to the future."
+body = "Stocks can lose value, including the money you put in."
+
+[[disclaimer]]
+title = "Check the numbers."
+body = "Results depend on the files you upload and on third-party market data (Yahoo Finance), which can be delayed, incomplete, or wrong. Always confirm against your broker statements."
+
+[[disclaimer]]
+title = "Not for tax filing."
+body = "Gains, dividends, and withholding figures are estimates. Use your official tax documents."
+
+[[disclaimer]]
+title = "Your data stays with you."
+body = "Uploaded files are processed on your computer and are not saved after you close FolioEx."
+
+[[disclaimer]]
+title = "Talk to a professional."
+body = "For decisions about your money, consult a licensed financial adviser."
+
+# Insight callouts. Numbers arrive already formatted.
+[insights]
+position_concentration = "{symbol} is {weight} of your portfolio, above your {limit} comfort limit."
+sector_concentration = "{sector} is {weight} of your investments, above your {limit} limit for one sector."
+best_sector = "{sector} is your best sector so far ({gain} since you bought)."
+big_losers = "Down more than {threshold} from what you paid: {symbols}."
+big_winners = "Up more than {threshold} from what you paid: {symbols}."
+idle_cash = "{weight} of your account ({amount}) is sitting in cash."
+beat_benchmark = "You beat the {bench} by {pts} over {period}."
+lag_benchmark = "You're {pts} behind the {bench} over {period}."
+best_month = "Best month: {month} ({ret})."
+worst_month = "Toughest month: {month} ({ret})."
+dividend_share = "Dividends made up {share} of your gain over {period}."
+dividend_growth = "Dividend income grew {change} in {year} compared with the year before."
+dividend_drop = "Dividend income fell {change} in {year} compared with the year before."
+fee_drag = "Tax and fees took {share} ({amount}) of your gains over {period}."
+data_quality = "Heads up: {things} in your files may affect these numbers. The Data Hub lists what to check."

@@ -1,0 +1,45 @@
+{
+  "files": 6,
+  "transactions": 606,
+  "holdings": 14,
+  "account_value": 131440.23,
+  "net_deposits": 77750.0,
+  "total_gain": 53690.23,
+  "total_gain_pct": 0.69055,
+  "cash": 315.12,
+  "warnings": 0,
+  "1Y": {
+    "twr": 0.167413,
+    "bench_twr": 0.329217,
+    "xirr": 0.162561,
+    "dividends_net": 2077.0,
+    "realized": 4356.69,
+    "best": [
+      "PG",
+      "VOO",
+      "SCHD"
+    ],
+    "worst": [
+      "V",
+      "JNJ",
+      "MSFT"
+    ]
+  },
+  "All": {
+    "twr": 2.532541,
+    "bench_twr": 0.247721,
+    "xirr": 0.185543,
+    "dividends_net": 6705.05,
+    "realized": 6165.52,
+    "best": [
+      "JPM",
+      "SCHD",
+      "PG"
+    ],
+    "worst": [
+      "V",
+      "JNJ",
+      "MSFT"
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+Statement,Header,Field Name,Field Val****,,,,,,,,
+Statement,Data,Title,Transaction History,,,,,,,,
+Statement,Data,Period,Jan****,,,,,,,,
+Statement,Data,WhenGenerated,"2026-01-01, 09:00:00 EST",,,,,,,,
+S****,Header,Field Name,Field Val****,,,,,,,,
+S****,Data,Base C****,****,,,,,,,,
+S****,Data,Starting Cash,8000.00,,,,,,,,
+S****,Data,Change,-5024.00,,,,,,,,
+S****,Data,Ending Cash,2976.00,,,,,,,,
+Transaction History,Header,Date,Acco****,Transaction Type,Symbol,Q****,Price,Price C****,Gross Amo****,Commission,Net Amo****
+Transaction History,Data,08/10/2026,****,Dividend,FKAA,-,-,-,12.11,-,12.11
+Transaction History,Data,08/10/2026,****,Foreign Tax Withholding,FKAA,-,-,-,-3.52,-,-3.52
+Transaction History,Data,07/10/2026,****,Dividend,FKAB,-,-,-,7.13,-,7.13
+Transaction History,Data,07/10/2026,****,Foreign Tax Withholding,FKAB,-,-,-,-0.38,-,-0.38
+Transaction History,Data,01/10/2026,****,Deposit,-,-,-,-,800,-,800
+Transaction History,Data,01/10/2026,****,Dividend,FKAC,-,-,-,11.83,-,11.83
+Transaction History,Data,01/10/2026,****,Foreign Tax Withholding,FKAC,-,-,-,-4.86,-,-4.86
+Transaction History,Data,01/10/2026,****,Dividend,FKAD,-,-,-,17.11,-,17.11
+Transaction History,Data,01/10/2026,****,Foreign Tax Withholding,FKAD,-,-,-,-5.36,-,-5.36
+Transaction History,Data,30/09/2026,****,Dividend,FKAE,-,-,-,8.68,-,8.68
+Transaction History,Data,30/09/2026,****,Foreign Tax Withholding,FKAE,-,-,-,-4.27,-,-4.27
+Transaction History,Data,28/09/2026,****,Dividend,FKAF,-,-,-,20.71,-,20.71
+Transaction History,Data,28/09/2026,****,Other Fee,FKAF,-,-,-,-0.52,-,-0.52
+Transaction History,Data,25/09/2026,****,Dividend,FKAG,-,-,-,1.22,-,1.22
+Transaction History,Data,25/09/2026,****,Foreign Tax Withholding,FKAG,-,-,-,-1.69,-,-1.69
+Transaction History,Data,25/09/2026,****,Dividend,FKAH,-,-,-,21.42,-,21.42
+Transaction History,Data,25/09/2026,****,Foreign Tax Withholding,FKAH,-,-,-,-1.77,-,-1.77
+Transaction History,Data,24/09/2026,****,Dividend,FKAI,-,-,-,5.16,-,5.16
+Transaction History,Data,24/09/2026,****,Foreign Tax Withholding,FKAI,-,-,-,-6.29,-,-6.29
+Transaction History,Data,22/09/2026,****,Dividend,****,-,-,-,17.26,-,17.26
+Transaction History,Data,22/09/2026,****,Foreign Tax Withholding,****,-,-,-,-4.31,-,-4.31
+Transaction History,Data,18/09/2026,****,Dividend,****,-,-,-,6.62,-,6.62
+Transaction History,Data,18/09/2026,****,Other Fee,****,-,-,-,-0.42,-,-0.42
+Transaction History,Data,16/09/2026,****,Dividend,FKAJ,-,-,-,17.76,-,17.76
+Transaction History,Data,16/09/2026,****,Foreign Tax Withholding,FKAJ,-,-,-,-2.2,-,-2.2
+Transaction History,Data,15/09/2026,****,Dividend,FKAK,-,-,-,20.48,-,20.48
+Transaction History,Data,15/09/2026,****,Foreign Tax Withholding,FKAK,-,-,-,-3.61,-,-3.61
+Transaction History,Data,15/09/2026,****,B****,FKAL,1,292.77,****,-292.77,-1,-293.77
+Transaction History,Data,15/09/2026,****,B****,FKAM,7,39.99,****,-279.93,-1,-280.93
+Transaction History,Data,15/09/2026,****,B****,FAK****,1,151.54,****,-151.54,-1,-152.54
+Transaction History,Data,15/09/2026,****,B****,FKAF,2,142.67,****,-285.34,-1,-286.34
+Transaction History,Data,15/09/2026,****,B****,FKAN,1,341.71,****,-341.71,-1,-342.71
+Transaction History,Data,15/09/2026,****,B****,FKAO,2,59.91,****,-119.82,-1,-120.82
+Transaction History,Data,14/09/2026,****,Dividend,FKAN,-,-,-,15.13,-,15.13
+Transaction History,Data,14/09/2026,****,Foreign Tax Withholding,FKAN,-,-,-,-1.79,-,-1.79
+Transaction History,Data,14/09/2026,****,Dividend,FKAP,-,-,-,20.96,-,20.96
+Transaction History,Data,14/09/2026,****,Foreign Tax Withholding,FKAP,-,-,-,-6.03,-,-6.03
+Transaction History,Data,11/09/2026,****,Dividend,FKAQ,-,-,-,7.67,-,7.67
+Transaction History,Data,11/09/2026,****,Foreign Tax Withholding,FKAQ,-,-,-,-2.06,-,-2.06
+Transaction History,Data,10/09/2026,****,Dividend,FKAR,-,-,-,13.7,-,13.7
+Transaction History,Data,10/09/2026,****,Foreign Tax Withholding,FKAR,-,-,-,-5.63,-,-5.63
+Transaction History,Data,10/09/2026,****,Dividend,FKAS,-,-,-,5.66,-,5.66
+Transaction History,Data,10/09/2026,****,Foreign Tax Withholding,FKAS,-,-,-,-2.85,-,-2.85
+Transaction History,Data,08/09/2026,****,Dividend,FKAT,-,-,-,9.18,-,9.18
+Transaction History,Data,08/09/2026,****,Foreign Tax Withholding,FKAT,-,-,-,-4.18,-,-4.18
+Transaction History,Data,03/09/2026,****,Dividend,FKAL,-,-,-,21.78,-,21.78
+Transaction History,Data,03/09/2026,****,Foreign Tax Withholding,FKAL,-,-,-,-4.38,-,-4.38
+Transaction History,Data,02/09/2026,****,Dividend,FKAU,-,-,-,11.78,-,11.78
+Transaction History,Data,02/09/2026,****,Foreign Tax Withholding,FKAU,-,-,-,-6.54,-,-6.54
+Transaction History,Data,31/08/2026,****,Deposit,-,-,-,-,800,-,800
+Transaction History,Data,31/08/2026,****,Dividend,FKAV,-,-,-,14.97,-,14.97
+Transaction History,Data,31/08/2026,****,Foreign Tax Withholding,FKAV,-,-,-,-3.7,-,-3.7
+Transaction History,Data,25/08/2026,****,Dividend,FKAO,-,-,-,22.36,-,22.36
+Transaction History,Data,25/08/2026,****,Foreign Tax Withholding,FKAO,-,-,-,-5.19,-,-5.19
+Transaction History,Data,25/08/2026,****,Other Fee,FKAO,-,-,-,-0.75,-,-0.75
+Transaction History,Data,20/08/2026,****,Dividend,FKAW,-,-,-,6.93,-,6.93
+Transaction History,Data,20/08/2026,****,Foreign Tax Withholding,FKAW,-,-,-,-6.83,-,-6.83
+Transaction History,Data,20/08/2026,****,Other Fee,FKAW,-,-,-,-0.64,-,-0.64
+Transaction History,Data,17/08/2026,****,Dividend,FKAX,-,-,-,2.82,-,2.82
+Transaction History,Data,17/08/2026,****,Foreign Tax Withholding,FKAX,-,-,-,-5.21,-,-5.21
+Transaction History,Data,10/08/2026,****,B****,FKAL,1,259.49,****,-259.49,-1,-260.49
+Transaction History,Data,10/08/2026,****,B****,FKAY,1,383.95,****,-383.95,-1,-384.95
+Transaction History,Data,10/08/2026,****,B****,FKAV,1,229.48,****,-229.48,-1,-230.48
+Transaction History,Data,10/08/2026,****,B****,FKAZ,19,15.11,****,-287.09,-1,-288.09
+Transaction History,Data,10/08/2026,****,B****,FKAM,5,60.69,****,-303.45,-1,-304.45
+Transaction History,Data,10/08/2026,****,B****,FKAF,1,349.36,****,-349.36,-1,-350.36
+Transaction History,Data,04/08/2026,****,Sell,FKAR,-2,163.24,****,326.48,-1,325.48
+Transaction History,Data,04/08/2026,****,Sell,FKAR,-1,314.91,****,314.91,-1,313.91
+Transaction History,Data,04/08/2026,****,Sell,FKAR,-2,138.81,****,277.62,-1,276.62
+Transaction History,Data,03/08/2026,****,Dividend,FKBA,-,-,-,13.27,-,13.27
+Transaction History,Data,03/08/2026,****,Foreign Tax Withholding,FKBA,-,-,-,-5.54,-,-5.54
+Transaction History,Data,02/08/2026,****,Deposit,-,-,-,-,800,-,800
+Transaction History,Data,31/07/2026,****,Dividend,FKBB,-,-,-,11.24,-,11.24
+Transaction History,Data,31/07/2026,****,Foreign Tax Withholding,FKBB,-,-,-,-5.87,-,-5.87
+Transaction History,Data,20/07/2026,****,B****,FKAE,1,250.17,****,-250.17,-1,-251.17
+Transaction History,Data,20/07/2026,****,Other Fee,ZZ****,-,-,-,-0.42,-,-0.42
+Transaction History,Data,17/07/2026,****,B****,FKAH,1,413.06,****,-413.06,-1,-414.06
+Transaction History,Data,17/07/2026,****,B****,FKBC,1,220.12,****,-220.12,-1,-221.12
+Transaction History,Data,17/07/2026,****,B****,FKAM,1,253.87,****,-253.87,-1,-254.87
+Transaction History,Data,17/07/2026,****,B****,FKAZ,1,256.14,****,-256.14,-1,-257.14
+Transaction History,Data,17/07/2026,****,B****,FKBD,3,97.8,****,-293.4,-1,-294.4
+Transaction History,Data,09/07/2026,****,Dividend,FKAA,-,-,-,21.78,-,21.78
+Transaction History,Data,09/07/2026,****,Foreign Tax Withholding,FKAA,-,-,-,-2.17,-,-2.17
+Transaction History,Data,08/07/2026,****,Dividend,FKAB,-,-,-,15.54,-,15.54
+Transaction History,Data,08/07/2026,****,Foreign Tax Withholding,FKAB,-,-,-,-1.52,-,-1.52
+Transaction History,Data,07/07/2026,****,Dividend,FKBE,-,-,-,0.85,-,0.85
+Transaction History,Data,07/07/2026,****,Foreign Tax Withholding,FKBE,-,-,-,-5.14,-,-5.14
+Transaction History,Data,07/07/2026,****,Other Fee,FKBE,-,-,-,-0.15,-,-0.15
+Transaction History,Data,01/07/2026,****,Dividend,FKAC,-,-,-,8.87,-,8.87
+Transaction History,Data,01/07/2026,****,Foreign Tax Withholding,FKAC,-,-,-,-4.11,-,-4.11
+Transaction History,Data,01/07/2026,****,Dividend,FKAD,-,-,-,11.75,-,11.75
+Transaction History,Data,01/07/2026,****,Foreign Tax Withholding,FKAD,-,-,-,-6.14,-,-6.14
+Transaction History,Data,01/07/2026,****,Deposit,-,-,-,-,800,-,800
+Transaction History,Data,29/06/2026,****,Dividend,FKBF,-,-,-,21.92,-,21.92
+Transaction History,Data,29/06/2026,****,Foreign Tax Withholding,FKBF,-,-,-,-5.4,-,-5.4
+Transaction History,Data,29/06/2026,****,Other Fee,FKBF,-,-,-,-0.78,-,-0.78
+Transaction History,Data,29/06/2026,****,Dividend,ZZ****,-,-,-,15.22,-,15.22
+Transaction History,Data,29/06/2026,****,Foreign Tax Withholding,ZZ****,-,-,-,-2.6,-,-2.6
+Transaction History,Data,29/06/2026,****,Other Fee,ZZ****,-,-,-,-0.99,-,-0.99
+Transaction History,Data,26/06/2026,****,Dividend,FKAH,-,-,-,21.26,-,21.26
+Transaction History,Data,26/06/2026,****,Foreign Tax Withholding,FKAH,-,-,-,-3.95,-,-3.95
+Transaction History,Data,26/06/2026,****,Dividend,FKAG,-,-,-,14.08,-,14.08
+Transaction History,Data,26/06/2026,****,Foreign Tax Withholding,FKAG,-,-,-,-6.43,-,-6.43
+Transaction History,Data,26/06/2026,****,Dividend,****,-,-,-,16.51,-,16.51
+Transaction History,Data,26/06/2026,****,Other Fee,****,-,-,-,-0.59,-,-0.59
+Transaction History,Data,25/06/2026,****,Dividend,FKAI,-,-,-,11.87,-,11.87
+Transaction History,Data,25/06/2026,****,Foreign Tax Withholding,FKAI,-,-,-,-3.58,-,-3.58
+Transaction History,Data,23/06/2026,****,Dividend,****,-,-,-,23.98,-,23.98
+Transaction History,Data,23/06/2026,****,Foreign Tax Withholding,****,-,-,-,-6.7,-,-6.7
+Transaction History,Data,18/06/2026,****,Dividend,FKBG,-,-,-,9.19,-,9.19
+Transaction History,Data,18/06/2026,****,Foreign Tax Withholding,FKBG,-,-,-,-4.54,-,-4.54
+Transaction History,Data,18/06/2026,****,Other Fee,FKBG,-,-,-,-0.38,-,-0.38
+Transaction History,Data,16/06/2026,****,Dividend,FKAJ,-,-,-,2.58,-,2.58
+Transaction History,Data,16/06/2026,****,Foreign Tax Withholding,FKAJ,-,-,-,-2.92,-,-2.92
+Transaction History,Data,16/06/2026,****,B****,FKAL,1,307.94,****,-307.94,-1,-308.94
+Transaction History,Data,16/06/2026,****,B****,FKAM,1,404.63,****,-404.63,-1,-405.63
+Transaction History,Data,16/06/2026,****,B****,FKBH,1,368.3,****,-368.3,-1,-369.3
+Transaction History,Data,16/06/2026,****,B****,FKBA,1,316.68,****,-316.68,-1,-317.68
+Transaction History,Data,16/06/2026,****,Dividend,FKBI,-,-,-,19.74,-,19.74
+Transaction History,Data,16/06/2026,****,Foreign Tax Withholding,FKBI,-,-,-,-5.93,-,-5.93
+Transaction History,Data,16/06/2026,****,Other Fee,FKBI,-,-,-,-0.25,-,-0.25
+Transaction History,Data,16/06/2026,****,B****,FKAF,1,265.68,****,-265.68,-1,-266.68
+Transaction History,Data,15/06/2026,****,Foreign Tax Withholding,FKAP,-,-,-,-1.89,-,-1.89
+Transaction History,Data,15/06/2026,****,Dividend,FKAK,-,-,-,20.18,-,20.18
+Transaction History,Data,15/06/2026,****,Foreign Tax Withholding,FKAK,-,-,-,-2.16,-,-2.16
+Transaction History,Data,15/06/2026,****,Dividend,FKAN,-,-,-,19.95,-,19.95
+Transaction History,Data,15/06/2026,****,Foreign Tax Withholding,FKAN,-,-,-,-1.96,-,-1.96
+Transaction History,Data,15/06/2026,****,Dividend,FKAP,-,-,-,4.81,-,4.81
+Transaction History,Data,15/06/2026,****,Dividend,FAK****,-,-,-,13.94,-,13.94
+Transaction History,Data,15/06/2026,****,Foreign Tax Withholding,FAK****,-,-,-,-3.56,-,-3.56
+Transaction History,Data,15/06/2026,****,Other Fee,FAK****,-,-,-,-0.64,-,-0.64
+Transaction History,Data,12/06/2026,****,Dividend,FKAQ,-,-,-,20.61,-,20.61
+Transaction History,Data,12/06/2026,****,Foreign Tax Withholding,FKAQ,-,-,-,-3.85,-,-3.85
+Transaction History,Data,11/06/2026,****,Foreign Tax Withholding,FKAR,-,-,-,-2.37,-,-2.37
+Transaction History,Data,11/06/2026,****,Dividend,FKAS,-,-,-,5.65,-,5.65
+Transaction History,Data,11/06/2026,****,Foreign Tax Withholding,FKAS,-,-,-,-6.66,-,-6.66
+Transaction History,Data,11/06/2026,****,Dividend,FKAR,-,-,-,7.11,-,7.11
+Transaction History,Data,09/06/2026,****,Foreign Tax Withholding,FKAT,-,-,-,-1.41,-,-1.41
+Transaction History,Data,09/06/2026,****,Dividend,FKAT,-,-,-,8.31,-,8.31
+Transaction History,Data,08/06/2026,****,Foreign Tax Withholding,FKAM,-,-,-,-3.44,-,-3.44
+Transaction History,Data,08/06/2026,****,Other Fee,FKAM,-,-,-,-0.72,-,-0.72
+Transaction History,Data,08/06/2026,****,Other Fee,FKBC,-,-,-,-0.67,-,-0.67
+Transaction History,Data,08/06/2026,****,Dividend,FKAM,-,-,-,11.5,-,11.5
+Transaction History,Data,08/06/2026,****,Dividend,FKBC,-,-,-,20.5,-,20.5
+Transaction History,Data,08/06/2026,****,Foreign Tax Withholding,FKBC,-,-,-,-3.79,-,-3.79
+Transaction History,Data,04/06/2026,****,Dividend,FKAL,-,-,-,23.79,-,23.79
+Transaction History,Data,04/06/2026,****,Foreign Tax Withholding,FKAL,-,-,-,-2.84,-,-2.84
+Transaction History,Data,04/06/2026,****,Dividend,FKBJ,-,-,-,2.7,-,2.7
+Transaction History,Data,04/06/2026,****,Other Fee,FKBJ,-,-,-,-0.64,-,-0.64
+Transaction History,Data,03/06/2026,****,Dividend,FKAU,-,-,-,8.94,-,8.94
+Transaction History,Data,03/06/2026,****,Foreign Tax Withholding,FKAU,-,-,-,-1.76,-,-1.76
+Transaction History,Data,28/05/2026,****,Foreign Tax Withholding,FKBK,-,-,-,-5.47,-,-5.47
+Transaction History,Data,28/05/2026,****,Other Fee,FKBK,-,-,-,-0.7,-,-0.7
+Transaction History,Data,28/05/2026,****,Dividend,FKBK,-,-,-,15.35,-,15.35
+Transaction History,Data,25/05/2026,****,Deposit,-,-,-,-,800,-,800
+Transaction History,Data,15/05/2026,****,Dividend,FKAX,-,-,-,7.05,-,7.05
+Transaction History,Data,15/05/2026,****,Foreign Tax Withholding,FKAX,-,-,-,-6.91,-,-6.91
+Transaction History,Data,11/05/2026,****,B****,FKAY,1,188.2,****,-188.2,-1,-189.2
+Transaction History,Data,11/05/2026,****,B****,FKAM,1,142.12,****,-142.12,-1,-143.12
+Transaction History,Data,11/05/2026,****,B****,ZZ****,2,99.54,****,-199.08,-1,-200.08
+Transaction History,Data,11/05/2026,****,B****,FKAF,11,28.99,****,-318.89,-1,-319.89
+Transaction History,Data,11/05/2026,****,B****,FKBJ,1,340.98,****,-340.98,-1,-341.98
+Transaction History,Data,11/05/2026,****,B****,FKAD,3,74.2,****,-222.6,-1,-223.6
+Transaction History,Data,11/05/2026,****,B****,FKBK,9,33.1,****,-297.9,-1,-298.9
+Transaction History,Data,01/05/2026,****,Foreign Tax Withholding,FKBA,-,-,-,-3.86,-,-3.86
+Transaction History,Data,01/05/2026,****,Dividend,FKBA,-,-,-,10.54,-,10.54
+Transaction History,Data,30/04/2026,****,Foreign Tax Withholding,FKBB,-,-,-,-5.91,-,-5.91
+Transaction History,Data,30/04/2026,****,Deposit,-,-,-,-,800,-,800
+Transaction History,Data,30/04/2026,****,Dividend,FKBB,-,-,-,22.99,-,22.99
+Transaction History,Data,27/04/2026,****,B****,FKAH,1,391.35,****,-391.35,-1,-392.35
+Transaction History,Data,27/04/2026,****,B****,FKAF,1,382.14,****,-382.14,-1,-383.14
+Transaction History,Data,27/04/2026,****,B****,FKAO,1,196.03,****,-196.03,-1,-197.03
+Transaction History,Data,27/04/2026,****,B****,****,1,404.43,****,-404.43,-1,-405.43
+Transaction History,Data,27/04/2026,****,B****,****,10,20.6,****,-206,-,-206
+Transaction History,Data,27/04/2026,****,B****,FKAM,1,192.4,****,-192.4,-1,-193.4
+Transaction History,Data,27/04/2026,****,B****,FKAS,1,363.76,****,-363.76,-1,-364.76
+Transaction History,Data,20/04/2026,****,Deposit,-,-,-,-,800,-,800
+Transaction History,Data,10/04/2026,****,Dividend,****,-,-,-,14.79,-,14.79
+Transaction History,Data,10/04/2026,****,Other Fee,****,-,-,-,-0.13,-,-0.13
+Transaction History,Data,09/04/2026,****,Dividend,FKAA,-,-,-,4.94,-,4.94
+Transaction History,Data,09/04/2026,****,Foreign Tax Withholding,FKAA,-,-,-,-6.99,-,-6.99
+Transaction History,Data,08/04/2026,****,Other Fee,FKAO,-,-,-,-0.86,-,-0.86
+Transaction History,Data,08/04/2026,****,Dividend,FKAO,-,-,-,11.24,-,11.24
+Transaction History,Data,08/04/2026,****,Foreign Tax Withholding,FKAO,-,-,-,-6.6,-,-6.6
+Transaction History,Data,07/04/2026,****,Dividend,FKAB,-,-,-,13.19,-,13.19
+Transaction History,Data,07/04/2026,****,Foreign Tax Withholding,FKAB,-,-,-,-2.5,-,-2.5
+Transaction History,Data,01/04/2026,****,Dividend,FKAD,-,-,-,5.37,-,5.37
+Transaction History,Data,01/04/2026,****,Foreign Tax Withholding,FKAD,-,-,-,-3.97,-,-3.97
+Transaction History,Data,01/04/2026,****,Dividend,FKAC,-,-,-,5.85,-,5.85
+Transaction History,Data,01/04/2026,****,Foreign Tax Withholding,FKAC,-,-,-,-0.43,-,-0.43
+Transaction History,Data,27/03/2026,****,Foreign Tax Withholding,FKAH,-,-,-,-2.74,-,-2.74
+Transaction History,Data,27/03/2026,****,Dividend,FKAG,-,-,-,19.7,-,19.7
+Transaction History,Data,27/03/2026,****,Foreign Tax Withholding,FKAG,-,-,-,-1.37,-,-1.37
+Transaction History,Data,27/03/2026,****,Dividend,FKAH,-,-,-,19.9,-,19.9
+Transaction History,Data,26/03/2026,****,Foreign Tax Withholding,FKAI,-,-,-,-6.75,-,-6.75
+Transaction History,Data,26/03/2026,****,Dividend,FKAI,-,-,-,21.15,-,21.15
+Transaction History,Data,19/03/2026,****,Dividend,FKAL,-,-,-,3.87,-,3.87
+Transaction History,Data,19/03/2026,****,Foreign Tax Withholding,FKAL,-,-,-,-4.26,-,-4.26
+Transaction History,Data,17/03/2026,****,Foreign Tax Withholding,****,-,-,-,-6.94,-,-6.94
+Transaction History,Data,17/03/2026,****,Foreign Tax Withholding,FKAJ,-,-,-,-3.66,-,-3.66
+Transaction History,Data,17/03/2026,****,Dividend,****,-,-,-,22.97,-,22.97
+Transaction History,Data,17/03/2026,****,Dividend,FKAJ,-,-,-,12.24,-,12.24
+Transaction History,Data,16/03/2026,****,Foreign Tax Withholding,FKAN,-,-,-,-4.09,-,-4.09
+Transaction History,Data,16/03/2026,****,Foreign Tax Withholding,FKAK,-,-,-,-6.85,-,-6.85
+Transaction History,Data,16/03/2026,****,Dividend,FKAP,-,-,-,16.86,-,16.86
+Transaction History,Data,16/03/2026,****,Foreign Tax Withholding,FKAP,-,-,-,-2.64,-,-2.64
+Transaction History,Data,16/03/2026,****,Dividend,FKAN,-,-,-,1.41,-,1.41
+Transaction History,Data,16/03/2026,****,Deposit,-,-,-,-,800,-,800
+Transaction History,Data,16/03/2026,****,Dividend,FKAK,-,-,-,20.92,-,20.92
+Transaction History,Data,13/03/2026,****,Dividend,FKAQ,-,-,-,13.85,-,13.85
+Transaction History,Data,13/03/2026,****,Foreign Tax Withholding,FKAQ,-,-,-,-5.29,-,-5.29
+Transaction History,Data,12/03/2026,****,Dividend,FKAS,-,-,-,17.64,-,17.64
+Transaction History,Data,12/03/2026,****,Foreign Tax Withholding,FKAS,-,-,-,-0.13,-,-0.13
+Transaction History,Data,12/03/2026,****,Dividend,FKAR,-,-,-,16.55,-,16.55
+Transaction History,Data,12/03/2026,****,Foreign Tax Withholding,FKAR,-,-,-,-6.84,-,-6.84
+Transaction History,Data,10/03/2026,****,Dividend,FKAT,-,-,-,10.41,-,10.41
+Transaction History,Data,10/03/2026,****,Foreign Tax Withholding,FKAT,-,-,-,-0.65,-,-0.65
+Transaction History,Data,04/03/2026,****,Dividend,FKAU,-,-,-,3.67,-,3.67
+Transaction History,Data,04/03/2026,****,Foreign Tax Withholding,FKAU,-,-,-,-5.98,-,-5.98
+Transaction History,Data,18/02/2026,****,B****,FKAY,1,401.58,****,-401.58,-1,-402.58
+Transaction History,Data,18/02/2026,****,B****,FKAM,1,394.61,****,-394.61,-1,-395.61
+Transaction History,Data,18/02/2026,****,B****,FKAS,9,13.55,****,-121.95,-1,-122.95
+Transaction History,Data,18/02/2026,****,B****,FKAO,1,402.6,****,-402.6,-1,-403.6
+Transaction History,Data,13/02/2026,****,Dividend,FKAX,-,-,-,2.81,-,2.81
+Transaction History,Data,13/02/2026,****,Foreign Tax Withholding,FKAX,-,-,-,-6.47,-,-6.47
+Transaction History,Data,05/02/2026,****,B****,FKAI,7,41.69,****,-291.83,-1,-292.83
+Transaction History,Data,02/02/2026,****,Foreign Tax Withholding,FKBA,-,-,-,-3.82,-,-3.82
+Transaction History,Data,02/02/2026,****,Dividend,FKBA,-,-,-,9.71,-,9.71
+Transaction History,Data,31/01/2026,****,Foreign Tax Withholding,FKBB,-,-,-,-2.83,-,-2.83
+Transaction History,Data,31/01/2026,****,Dividend,FKBB,-,-,-,21.74,-,21.74
+Transaction History,Data,29/01/2026,****,Deposit,-,-,-,-,800,-,800
+Transaction History,Data,28/01/2026,****,B****,****,1,329.72,****,-329.72,-1,-330.72
+Transaction History,Data,13/01/2026,****,B****,ZZ****,1,174.77,****,-174.77,-1,-175.77
+Transaction History,Data,13/01/2026,****,B****,FAK****,1,175.56,****,-175.56,-1,-176.56
+Transaction History,Data,13/01/2026,****,B****,FKAW,4,50.5,****,-202,-1,-203
+Transaction History,Data,12/01/2026,****,B****,FKBK,1,296.98,****,-296.98,-1,-297.98
+Transaction History,Data,12/01/2026,****,Sell,FKBL,-1,153.68,****,153.68,-1,152.68
+Transaction History,Data,12/01/2026,****,B****,FKBE,1,194.45,****,-194.45,-1,-195.45
+Transaction History,Data,12/01/2026,****,B****,FKAL,1,314.42,****,-314.42,-1,-315.42
+Transaction History,Data,12/01/2026,****,B****,FKAX,1,260,****,-260,-1,-261
+Transaction History,Data,08/01/2026,****,Foreign Tax Withholding,FKAB,-,-,-,-1.51,-,-1.51
+Transaction History,Data,08/01/2026,****,Dividend,FKAA,-,-,-,21.5,-,21.5
+Transaction History,Data,08/01/2026,****,Foreign Tax Withholding,FKAA,-,-,-,-2.06,-,-2.06
+Transaction History,Data,08/01/2026,****,Dividend,FKAB,-,-,-,1.29,-,1.29
+Transaction History,Data,07/01/2026,****,Dividend,FKAU,-,-,-,18.99,-,18.99
+Transaction History,Data,07/01/2026,****,Foreign Tax Withholding,FKAU,-,-,-,-1.53,-,-1.53
+Transaction History,Data,02/01/2026,****,Dividend,FKAD,-,-,-,14.5,-,14.5
+Transaction History,Data,02/01/2026,****,Foreign Tax Withholding,FKAD,-,-,-,-4.31,-,-4.31

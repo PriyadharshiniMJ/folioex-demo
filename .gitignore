@@ -1,0 +1,81 @@
+# --- Python environment (uv) ---
+# Commit uv.lock and .python-version; never commit the virtual environment.
+.venv/
+venv/
+env/
+
+# --- Secrets and local settings ---
+.env
+.env.*
+!.env.example
+*.local.toml
+
+# --- Python bytecode and build output ---
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+wheels/
+pip-wheel-metadata/
+
+# --- Tool caches ---
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+.cache/
+
+# --- Test and coverage output ---
+.coverage
+.coverage.*
+coverage.xml
+coverage.json
+htmlcov/
+test-results/
+playwright-report/
+
+# --- Logs and local app data ---
+# FolioEx writes its log and market-data cache under ~/.folioex, but guard against local copies too.
+*.log
+logs/
+.folioex/
+cache/
+
+# --- Your own transaction files (personal data) ---
+# Only CSVs in the project root are ignored. The bundled sample files (src/folioex/sample/files/)
+# and test fixtures (tests/fixtures/) are deliberately NOT ignored.
+/*.csv
+/*.xlsx
+/*.xls
+/data/
+/uploads/
+
+# --- Temporary files ---
+*.tmp
+*.temp
+*.bak
+*.orig
+*.rej
+*~
+.scratch/
+scratchpad/
+
+# --- Operating system files ---
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# --- Editors and IDEs ---
+.vscode/
+.idea/
+*.swp
+*.swo

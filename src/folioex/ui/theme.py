@@ -1,0 +1,81 @@
+"""Colours for Plotly charts, which can't read CSS variables. Kept identical to folioex.css (tested)."""
+
+from __future__ import annotations
+
+CHART_TOKENS = (
+    "fg",
+    "fg-2",
+    "muted",
+    "line",
+    "line-strong",
+    "surface",
+    "surface-2",
+    "accent",
+    "up",
+    "down",
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "c-up",
+    "c-down",
+    "c-pend",
+    "c-now",
+)
+
+_LIGHT = {
+    "fg": "#121826",
+    "fg-2": "#465265",
+    "muted": "#677285",
+    "line": "#dde2ea",
+    "line-strong": "#c3cad6",
+    "surface": "#ffffff",
+    "surface-2": "#eef1f6",
+    "accent": "#2c49c7",
+    "up": "#006300",
+    "down": "#b42727",
+    "s1": "#2a78d6",
+    "s2": "#eb6834",
+    "s3": "#1baf7a",
+    "s4": "#eda100",
+    "s5": "#e87ba4",
+    "s6": "#008300",
+    "s7": "#6250d6",
+    "s8": "#e34948",
+    "c-up": "#0ca30c",
+    "c-down": "#d03b3b",
+    "c-pend": "#cdd3dc",
+    "c-now": "#2c49c7",
+}
+_DARK = {
+    "fg": "#ecf0f6",
+    "fg-2": "#b3bccb",
+    "muted": "#8a94a4",
+    "line": "#262e3a",
+    "line-strong": "#36404e",
+    "surface": "#141922",
+    "surface-2": "#1b212c",
+    "accent": "#93a6ff",
+    "up": "#2bb24c",
+    "down": "#ff7d7d",
+    "s1": "#3987e5",
+    "s2": "#d95926",
+    "s3": "#199e70",
+    "s4": "#c98500",
+    "s5": "#d55181",
+    "s6": "#008300",
+    "s7": "#9085e9",
+    "s8": "#e66767",
+    "c-up": "#0ca30c",
+    "c-down": "#d03b3b",
+    "c-pend": "#363f4c",
+    "c-now": "#93a6ff",
+}
+
+
+def chart_colors(theme: str | None) -> dict[str, str]:
+    return dict(_DARK if theme == "dark" else _LIGHT)

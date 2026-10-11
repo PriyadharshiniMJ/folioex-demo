@@ -1,0 +1,93 @@
+Statement,Header,Field Name,Field Value
+Statement,Data,Title,Transaction History
+Statement,Data,Period,"January 1, 2026 - October 9, 2026"
+Summary,Header,Field Name,Field Value
+Summary,Data,Base Currency,USD
+Summary,Data,Starting Cash,611.33
+Summary,Data,Ending Cash,315.12
+Transaction History,Header,Date,Account,Transaction Type,Symbol,Quantity,Price,Price Currency,Gross Amount,Commission,Net Amount
+Transaction History,Data,09/10/2026,DEMO,Credit Interest,-,-,-,-,0.26,-,0.26
+Transaction History,Data,07/10/2026,DEMO,Dividend,SCHD,-,-,-,72.36,-,72.36
+Transaction History,Data,01/10/2026,DEMO,Buy,JPM,6,333.18,USD,-1999.08,-1.00,-2000.08
+Transaction History,Data,01/10/2026,DEMO,Buy,MSFT,4,512.80,USD,-2051.20,-1.00,-2052.20
+Transaction History,Data,01/10/2026,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,30/09/2026,DEMO,Credit Interest,-,-,-,-,2.74,-,2.74
+Transaction History,Data,29/09/2026,DEMO,Dividend,KO,-,-,-,51.41,-,51.41
+Transaction History,Data,28/09/2026,DEMO,Dividend,UNH,-,-,-,30.16,-,30.16
+Transaction History,Data,18/09/2026,DEMO,Dividend,PEP,-,-,-,60.68,-,60.68
+Transaction History,Data,17/09/2026,DEMO,Dividend,HD,-,-,-,44.27,-,44.27
+Transaction History,Data,08/09/2026,DEMO,Dividend,JNJ,-,-,-,52.26,-,52.26
+Transaction History,Data,03/09/2026,DEMO,Sell,JPM,-7,362.06,USD,2534.42,-1.00,2533.42
+Transaction History,Data,03/09/2026,DEMO,Dividend,MSFT,-,-,-,8.19,-,8.19
+Transaction History,Data,01/09/2026,DEMO,Buy,AAPL,1,325.13,USD,-325.13,-1.00,-326.13
+Transaction History,Data,01/09/2026,DEMO,Buy,KO,6,88.00,USD,-528.00,-1.00,-529.00
+Transaction History,Data,01/09/2026,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,31/08/2026,DEMO,Credit Interest,-,-,-,-,0.31,-,0.31
+Transaction History,Data,31/08/2026,DEMO,Dividend,XOM,-,-,-,81.37,-,81.37
+Transaction History,Data,25/08/2026,DEMO,Dividend,V,-,-,-,16.08,-,16.08
+Transaction History,Data,24/08/2026,DEMO,Dividend,AAPL,-,-,-,7.83,-,7.83
+Transaction History,Data,07/08/2026,DEMO,Dividend,COST,-,-,-,22.05,-,22.05
+Transaction History,Data,07/08/2026,DEMO,Dividend,PG,-,-,-,41.38,-,41.38
+Transaction History,Data,03/08/2026,DEMO,Buy,PG,5,144.97,USD,-724.85,-1.00,-725.85
+Transaction History,Data,03/08/2026,DEMO,Buy,PEP,5,139.63,USD,-698.15,-1.00,-699.15
+Transaction History,Data,03/08/2026,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,31/07/2026,DEMO,Credit Interest,-,-,-,-,0.52,-,0.52
+Transaction History,Data,20/07/2026,DEMO,Dividend,JPM,-,-,-,43.50,-,43.50
+Transaction History,Data,10/07/2026,DEMO,Dividend,VOO,-,-,-,31.39,-,31.39
+Transaction History,Data,08/07/2026,DEMO,Dividend,SCHD,-,-,-,68.56,-,68.56
+Transaction History,Data,01/07/2026,DEMO,Buy,JNJ,10,253.98,USD,-2539.80,-1.00,-2540.80
+Transaction History,Data,01/07/2026,DEMO,Buy,V,7,351.08,USD,-2457.56,-1.00,-2458.56
+Transaction History,Data,01/07/2026,DEMO,Withdrawal,-,-,-,-,-750.00,-,-750.00
+Transaction History,Data,01/07/2026,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,30/06/2026,DEMO,Credit Interest,-,-,-,-,4.35,-,4.35
+Transaction History,Data,29/06/2026,DEMO,Dividend,UNH,-,-,-,30.16,-,30.16
+Transaction History,Data,29/06/2026,DEMO,Dividend,KO,-,-,-,48.23,-,48.23
+Transaction History,Data,22/06/2026,DEMO,Dividend,PEP,-,-,-,53.28,-,53.28
+Transaction History,Data,18/06/2026,DEMO,Dividend,HD,-,-,-,44.27,-,44.27
+Transaction History,Data,09/06/2026,DEMO,Dividend,JNJ,-,-,-,38.86,-,38.86
+Transaction History,Data,04/06/2026,DEMO,Dividend,MSFT,-,-,-,8.19,-,8.19
+Transaction History,Data,03/06/2026,DEMO,Sell,COST,-5,961.83,USD,4809.15,-1.00,4808.15
+Transaction History,Data,01/06/2026,DEMO,Buy,UNH,2,379.86,USD,-759.72,-1.00,-760.72
+Transaction History,Data,01/06/2026,DEMO,Buy,SCHD,23,32.18,USD,-740.14,-1.00,-741.14
+Transaction History,Data,01/06/2026,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,29/05/2026,DEMO,Credit Interest,-,-,-,-,0.58,-,0.58
+Transaction History,Data,29/05/2026,DEMO,Dividend,XOM,-,-,-,81.37,-,81.37
+Transaction History,Data,26/05/2026,DEMO,Dividend,V,-,-,-,11.39,-,11.39
+Transaction History,Data,26/05/2026,DEMO,Dividend,AAPL,-,-,-,7.83,-,7.83
+Transaction History,Data,15/05/2026,DEMO,Dividend,COST,-,-,-,29.40,-,29.40
+Transaction History,Data,08/05/2026,DEMO,Dividend,PG,-,-,-,41.38,-,41.38
+Transaction History,Data,01/05/2026,DEMO,Buy,HD,2,323.88,USD,-647.76,-1.00,-648.76
+Transaction History,Data,01/05/2026,DEMO,Buy,XOM,6,152.75,USD,-916.50,-1.00,-917.50
+Transaction History,Data,01/05/2026,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,30/04/2026,DEMO,Credit Interest,-,-,-,-,0.91,-,0.91
+Transaction History,Data,20/04/2026,DEMO,Dividend,JPM,-,-,-,43.50,-,43.50
+Transaction History,Data,10/04/2026,DEMO,Dividend,VOO,-,-,-,28.08,-,28.08
+Transaction History,Data,08/04/2026,DEMO,Dividend,SCHD,-,-,-,63.74,-,63.74
+Transaction History,Data,01/04/2026,DEMO,Buy,VOO,1,602.30,USD,-602.30,-1.00,-603.30
+Transaction History,Data,01/04/2026,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,31/03/2026,DEMO,Credit Interest,-,-,-,-,0.46,-,0.46
+Transaction History,Data,27/03/2026,DEMO,Dividend,KO,-,-,-,48.23,-,48.23
+Transaction History,Data,26/03/2026,DEMO,Dividend,HD,-,-,-,39.61,-,39.61
+Transaction History,Data,23/03/2026,DEMO,Dividend,UNH,-,-,-,24.31,-,24.31
+Transaction History,Data,20/03/2026,DEMO,Dividend,PEP,-,-,-,51.23,-,51.23
+Transaction History,Data,10/03/2026,DEMO,Dividend,JNJ,-,-,-,37.70,-,37.70
+Transaction History,Data,05/03/2026,DEMO,Dividend,MSFT,-,-,-,7.28,-,7.28
+Transaction History,Data,02/03/2026,DEMO,Buy,JPM,2,297.56,USD,-595.12,-1.00,-596.12
+Transaction History,Data,02/03/2026,DEMO,Buy,MSFT,1,398.55,USD,-398.55,-1.00,-399.55
+Transaction History,Data,02/03/2026,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,27/02/2026,DEMO,Credit Interest,-,-,-,-,0.29,-,0.29
+Transaction History,Data,26/02/2026,DEMO,Dividend,XOM,-,-,-,75.19,-,75.19
+Transaction History,Data,24/02/2026,DEMO,Dividend,V,-,-,-,11.39,-,11.39
+Transaction History,Data,23/02/2026,DEMO,Dividend,AAPL,-,-,-,7.54,-,7.54
+Transaction History,Data,13/02/2026,DEMO,Dividend,COST,-,-,-,26.00,-,26.00
+Transaction History,Data,06/02/2026,DEMO,Dividend,PG,-,-,-,40.17,-,40.17
+Transaction History,Data,02/02/2026,DEMO,Buy,AAPL,2,270.01,USD,-540.02,-1.00,-541.02
+Transaction History,Data,02/02/2026,DEMO,Buy,KO,7,75.33,USD,-527.31,-1.00,-528.31
+Transaction History,Data,02/02/2026,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,30/01/2026,DEMO,Credit Interest,-,-,-,-,0.21,-,0.21
+Transaction History,Data,20/01/2026,DEMO,Dividend,JPM,-,-,-,40.50,-,40.50
+Transaction History,Data,05/01/2026,DEMO,Dividend,VOO,-,-,-,26.56,-,26.56
+Transaction History,Data,02/01/2026,DEMO,Buy,PG,5,141.79,USD,-708.95,-1.00,-709.95
+Transaction History,Data,02/01/2026,DEMO,Buy,PEP,5,142.23,USD,-711.15,-1.00,-712.15
+Transaction History,Data,02/01/2026,DEMO,Other Fee,-,-,-,-,-5.00,-,-5.00
+Transaction History,Data,02/01/2026,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00

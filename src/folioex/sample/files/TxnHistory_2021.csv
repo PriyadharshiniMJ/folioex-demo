@@ -1,0 +1,101 @@
+Statement,Header,Field Name,Field Value
+Statement,Data,Title,Transaction History
+Statement,Data,Period,"January 1, 2021 - December 31, 2021"
+Summary,Header,Field Name,Field Value
+Summary,Data,Base Currency,USD
+Summary,Data,Starting Cash,0.00
+Summary,Data,Ending Cash,319.90
+Transaction History,Header,Date,Account,Transaction Type,Symbol,Quantity,Price,Price Currency,Gross Amount,Commission,Net Amount
+Transaction History,Data,31/12/2021,DEMO,Credit Interest,-,-,-,-,0.27,-,0.27
+Transaction History,Data,22/12/2021,DEMO,Dividend,SCHD,-,-,-,7.44,-,7.44
+Transaction History,Data,17/12/2021,DEMO,Dividend,UNH,-,-,-,2.90,-,2.90
+Transaction History,Data,16/12/2021,DEMO,Dividend,PEP,-,-,-,8.60,-,8.60
+Transaction History,Data,15/12/2021,DEMO,Dividend,HD,-,-,-,6.60,-,6.60
+Transaction History,Data,14/12/2021,DEMO,Dividend,KO,-,-,-,4.20,-,4.20
+Transaction History,Data,06/12/2021,DEMO,Dividend,JNJ,-,-,-,7.42,-,7.42
+Transaction History,Data,01/12/2021,DEMO,Buy,PG,4,146.40,USD,-585.60,-1.00,-586.60
+Transaction History,Data,01/12/2021,DEMO,Buy,PEP,4,160.16,USD,-640.64,-1.00,-641.64
+Transaction History,Data,01/12/2021,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,01/12/2021,DEMO,Dividend,MSFT,-,-,-,1.24,-,1.24
+Transaction History,Data,30/11/2021,DEMO,Credit Interest,-,-,-,-,0.42,-,0.42
+Transaction History,Data,24/11/2021,DEMO,Dividend,XOM,-,-,-,21.12,-,21.12
+Transaction History,Data,24/11/2021,DEMO,Dividend,V,-,-,-,1.88,-,1.88
+Transaction History,Data,19/11/2021,DEMO,Dividend,AAPL,-,-,-,0.88,-,0.88
+Transaction History,Data,11/11/2021,DEMO,Dividend,COST,-,-,-,11.85,-,11.85
+Transaction History,Data,04/11/2021,DEMO,Dividend,PG,-,-,-,3.48,-,3.48
+Transaction History,Data,01/11/2021,DEMO,Buy,JNJ,3,163.02,USD,-489.06,-1.00,-490.06
+Transaction History,Data,01/11/2021,DEMO,Buy,V,2,212.46,USD,-424.92,-1.00,-425.92
+Transaction History,Data,01/11/2021,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,29/10/2021,DEMO,Credit Interest,-,-,-,-,0.32,-,0.32
+Transaction History,Data,19/10/2021,DEMO,Dividend,JPM,-,-,-,4.00,-,4.00
+Transaction History,Data,13/10/2021,DEMO,Dividend,VOO,-,-,-,20.93,-,20.93
+Transaction History,Data,06/10/2021,DEMO,Dividend,SCHD,-,-,-,3.52,-,3.52
+Transaction History,Data,01/10/2021,DEMO,Buy,UNH,1,392.43,USD,-392.43,-1.00,-393.43
+Transaction History,Data,01/10/2021,DEMO,Buy,SCHD,6,75.23,USD,-451.38,-1.00,-452.38
+Transaction History,Data,01/10/2021,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,30/09/2021,DEMO,Credit Interest,-,-,-,-,0.17,-,0.17
+Transaction History,Data,28/09/2021,DEMO,Dividend,KO,-,-,-,4.20,-,4.20
+Transaction History,Data,24/09/2021,DEMO,Dividend,UNH,-,-,-,1.45,-,1.45
+Transaction History,Data,16/09/2021,DEMO,Dividend,PEP,-,-,-,4.30,-,4.30
+Transaction History,Data,15/09/2021,DEMO,Dividend,HD,-,-,-,3.30,-,3.30
+Transaction History,Data,07/09/2021,DEMO,Dividend,JNJ,-,-,-,4.24,-,4.24
+Transaction History,Data,01/09/2021,DEMO,Buy,HD,2,323.64,USD,-647.28,-1.00,-648.28
+Transaction History,Data,01/09/2021,DEMO,Buy,XOM,12,53.77,USD,-645.24,-1.00,-646.24
+Transaction History,Data,01/09/2021,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,01/09/2021,DEMO,Dividend,MSFT,-,-,-,1.12,-,1.12
+Transaction History,Data,31/08/2021,DEMO,Credit Interest,-,-,-,-,0.40,-,0.40
+Transaction History,Data,26/08/2021,DEMO,Dividend,XOM,-,-,-,10.44,-,10.44
+Transaction History,Data,26/08/2021,DEMO,Dividend,V,-,-,-,0.96,-,0.96
+Transaction History,Data,20/08/2021,DEMO,Dividend,AAPL,-,-,-,0.88,-,0.88
+Transaction History,Data,12/08/2021,DEMO,Dividend,COST,-,-,-,11.06,-,11.06
+Transaction History,Data,05/08/2021,DEMO,Dividend,PG,-,-,-,3.48,-,3.48
+Transaction History,Data,02/08/2021,DEMO,Buy,VOO,1,402.33,USD,-402.33,-1.00,-403.33
+Transaction History,Data,02/08/2021,DEMO,Buy,COST,1,428.92,USD,-428.92,-1.00,-429.92
+Transaction History,Data,02/08/2021,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,30/07/2021,DEMO,Credit Interest,-,-,-,-,0.24,-,0.24
+Transaction History,Data,16/07/2021,DEMO,Dividend,JPM,-,-,-,3.60,-,3.60
+Transaction History,Data,13/07/2021,DEMO,Dividend,VOO,-,-,-,20.00,-,20.00
+Transaction History,Data,07/07/2021,DEMO,Dividend,SCHD,-,-,-,3.24,-,3.24
+Transaction History,Data,02/07/2021,DEMO,Dividend,UNH,-,-,-,1.45,-,1.45
+Transaction History,Data,01/07/2021,DEMO,Buy,JPM,4,157.08,USD,-628.32,-1.00,-629.32
+Transaction History,Data,01/07/2021,DEMO,Buy,MSFT,2,271.60,USD,-543.20,-1.00,-544.20
+Transaction History,Data,01/07/2021,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,30/06/2021,DEMO,Credit Interest,-,-,-,-,0.36,-,0.36
+Transaction History,Data,28/06/2021,DEMO,Dividend,KO,-,-,-,4.20,-,4.20
+Transaction History,Data,17/06/2021,DEMO,Dividend,PEP,-,-,-,4.30,-,4.30
+Transaction History,Data,16/06/2021,DEMO,Dividend,HD,-,-,-,3.30,-,3.30
+Transaction History,Data,07/06/2021,DEMO,Dividend,JNJ,-,-,-,4.24,-,4.24
+Transaction History,Data,03/06/2021,DEMO,Sell,SCHD,-2,77.16,USD,154.32,-1.00,153.32
+Transaction History,Data,01/06/2021,DEMO,Buy,AAPL,4,124.28,USD,-497.12,-1.00,-498.12
+Transaction History,Data,01/06/2021,DEMO,Buy,KO,10,55.28,USD,-552.80,-1.00,-553.80
+Transaction History,Data,01/06/2021,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,28/05/2021,DEMO,Credit Interest,-,-,-,-,0.26,-,0.26
+Transaction History,Data,27/05/2021,DEMO,Dividend,V,-,-,-,0.96,-,0.96
+Transaction History,Data,26/05/2021,DEMO,Dividend,XOM,-,-,-,10.44,-,10.44
+Transaction History,Data,13/05/2021,DEMO,Dividend,COST,-,-,-,11.06,-,11.06
+Transaction History,Data,03/05/2021,DEMO,Buy,PG,4,135.00,USD,-540.00,-1.00,-541.00
+Transaction History,Data,03/05/2021,DEMO,Buy,PEP,4,145.79,USD,-583.16,-1.00,-584.16
+Transaction History,Data,03/05/2021,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,30/04/2021,DEMO,Credit Interest,-,-,-,-,0.34,-,0.34
+Transaction History,Data,09/04/2021,DEMO,Dividend,VOO,-,-,-,18.95,-,18.95
+Transaction History,Data,07/04/2021,DEMO,Dividend,SCHD,-,-,-,4.02,-,4.02
+Transaction History,Data,01/04/2021,DEMO,Buy,JNJ,4,162.83,USD,-651.32,-1.00,-652.32
+Transaction History,Data,01/04/2021,DEMO,Buy,V,3,216.86,USD,-650.58,-1.00,-651.58
+Transaction History,Data,01/04/2021,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,31/03/2021,DEMO,Credit Interest,-,-,-,-,0.58,-,0.58
+Transaction History,Data,26/03/2021,DEMO,Dividend,UNH,-,-,-,1.25,-,1.25
+Transaction History,Data,24/03/2021,DEMO,Dividend,HD,-,-,-,3.30,-,3.30
+Transaction History,Data,03/03/2021,DEMO,Sell,XOM,-4,56.52,USD,226.08,-1.00,225.08
+Transaction History,Data,01/03/2021,DEMO,Buy,UNH,1,334.65,USD,-334.65,-1.00,-335.65
+Transaction History,Data,01/03/2021,DEMO,Buy,SCHD,8,69.10,USD,-552.80,-1.00,-553.80
+Transaction History,Data,01/03/2021,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,26/02/2021,DEMO,Credit Interest,-,-,-,-,0.29,-,0.29
+Transaction History,Data,23/02/2021,DEMO,Dividend,XOM,-,-,-,13.92,-,13.92
+Transaction History,Data,18/02/2021,DEMO,Dividend,COST,-,-,-,9.80,-,9.80
+Transaction History,Data,01/02/2021,DEMO,Buy,HD,2,270.07,USD,-540.14,-1.00,-541.14
+Transaction History,Data,01/02/2021,DEMO,Buy,XOM,16,44.92,USD,-718.72,-1.00,-719.72
+Transaction History,Data,01/02/2021,DEMO,Deposit,-,-,-,-,1000.00,-,1000.00
+Transaction History,Data,29/01/2021,DEMO,Credit Interest,-,-,-,-,0.49,-,0.49
+Transaction History,Data,04/01/2021,DEMO,Buy,VOO,15,339.03,USD,-5085.45,-1.00,-5086.45
+Transaction History,Data,04/01/2021,DEMO,Buy,COST,14,380.15,USD,-5322.10,-1.00,-5323.10
+Transaction History,Data,04/01/2021,DEMO,Deposit,-,-,-,-,11000.00,-,11000.00
